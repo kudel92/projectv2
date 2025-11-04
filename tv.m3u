@@ -119,10 +119,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
  
 #EXTINF:-1 group-title="LOKAL ID" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/inews.png",iNews
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
- #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
 ===============================
  
@@ -135,7 +135,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png" group-title="LOKAL ID",Indosiar hd
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+###https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 ===============================
 
