@@ -189,7 +189,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 ===============================
 
 #EXTINF:-1 tvg-logo="http://adp-premium.my.id/logo/jawapos.jpg" group-title="LOKAL ID", JAWA POS TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 ===============================
 
@@ -212,8 +214,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="http://adp-premium.my.id/logo/ktv.jpg" group-title="LOKAL ID", KTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
-
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/17  
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cnnindo.png" group-title="LOKAL ID",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
