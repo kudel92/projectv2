@@ -196,10 +196,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="http://adp-premium.my.id/logo/vtv.jpg" group-title="LOKAL ID",VTV HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/40
+
 
 ===============================
 
